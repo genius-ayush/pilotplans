@@ -2,9 +2,9 @@
 import React, { useState, useEffect, useRef } from 'react';
 
 const sections = [
-  { id: 1, title: "Create Trip", content : "Nothing to download. Use Pilot from the web and export for offline access." ,  image: "../public/Started/img1.png" },
-  { id: 2, title: "Collaborate and Plan", content : "Invite friends, get trip recommendations and add, delete and drag & drop anything." ,  image: "../public/Started/img2.png" },
-  { id: 3, title: "Share Experience", content : "Secure travel docs and visas, export your itinerary and start traveling!" ,  image: "../public/Started/img3.png" },
+  { id: 1, title: "Create Trip", content : "Nothing to download. Use Pilot from the web and export for offline access." ,  image: "./Started/img1.png" },
+  { id: 2, title: "Collaborate and Plan", content : "Invite friends, get trip recommendations and add, delete and drag & drop anything." ,  image: "./Started/img2.png" },
+  { id: 3, title: "Share Experience", content : "Secure travel docs and visas, export your itinerary and start traveling!" ,  image: "./Started/img3.png" },
 ];
 
 const ScrollFeature = () => {

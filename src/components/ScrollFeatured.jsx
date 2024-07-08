@@ -9,7 +9,7 @@ function ScrollFeatured() {
       <div className="flex gap-10">
           <div>
             <img
-              src="./src/assets/Featured/img1.png"
+              src="./Featured/img1.png"
               alt=""
               className="w-60 h-10"
             />
@@ -17,7 +17,7 @@ function ScrollFeatured() {
 
           <div>
             <img
-              src="./src/assets/Featured/img2.svg"
+              src="./Featured/img2.svg"
               alt=""
               className="w-60 h-10"
             />
@@ -25,7 +25,7 @@ function ScrollFeatured() {
 
           <div>
             <img
-              src="./src/assets/Featured/img3.png"
+              src="./Featured/img3.png"
               alt=""
               className="w-60 h-10"
             />
@@ -33,7 +33,7 @@ function ScrollFeatured() {
 
           <div>
             <img
-              src="./src/assets/Featured/img4.png"
+              src="./Featured/img4.png"
               alt=""
               className="w-60 h-10"
             />
@@ -41,7 +41,7 @@ function ScrollFeatured() {
 
           <div>
             <img
-              src="./src/assets/Featured/img5.png"
+              src="./Featured/img5.png"
               alt=""
               className="w-60 h-10"
             />
@@ -49,7 +49,7 @@ function ScrollFeatured() {
 
           <div>
             <img
-              src="./src/assets/Featured/img6.png"
+              src="./Featured/img6.png"
               alt=""
               className="w-60 h-10"
             />
@@ -57,7 +57,7 @@ function ScrollFeatured() {
 
           <div>
             <img
-              src="./src/assets/Featured/img7.png"
+              src="./Featured/img7.png"
               alt=""
               className="w-60 h-10"
             />
@@ -65,14 +65,14 @@ function ScrollFeatured() {
 
           <div>
             <img
-              src="./src/assets/Featured/img8.png"
+              src="./Featured/img8.png"
               alt=""
               className="w-60 h-10"
             />
           </div>
           <div>
             <img
-              src="./src/assets/Featured/img9.png"
+              src="./Featured/img9.png"
               alt=""
               className="w-60 h-10"
             />

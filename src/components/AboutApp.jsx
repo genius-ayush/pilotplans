@@ -29,18 +29,18 @@ function AboutApp() {
         </div>
         <div className="flex justify-center lg:justify-end lg:w-1/2 mt-8 lg:mt-0 relative">
           <img
-            src="../public/AboutApp/image1.webp"
+            src="./AboutApp/image1.webp"
             alt="App Screenshot"
             className="max-w-full h-auto"
           />
           <img
-            src="../public/AboutApp/image2.webp"
+            src="./AboutApp/image2.webp"
             alt="App Screenshot"
             className="absolute bottom-0 left-0 w-1/2  h-auto"
           />
 
           <img
-            src="../public/AboutApp/image3.webp"
+            src="./AboutApp/image3.webp"
             alt="App Screenshot"
             className="absolute  left-10 w-1/2  h-auto"
           />

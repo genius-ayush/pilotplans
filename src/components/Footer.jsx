@@ -52,7 +52,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="mt-12 flex flex-col items-center">
-          <img src="../public/PilotLogoOrange.svg" alt="Pilot Logo" className="mb-4 w-24" />
+          <img src="./PilotLogoOrange.svg" alt="Pilot Logo" className="mb-4 w-24" />
           <div className="text-center text-gray-600 mb-4">
             <p>Privacy Policy | Terms & Conditions © 2021–2024, Pilot</p>
           </div>

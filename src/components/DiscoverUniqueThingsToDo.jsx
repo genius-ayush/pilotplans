@@ -6,7 +6,7 @@ const DiscoverUniqueThingsToDo = () => {
       <div className="flex flex-col md:flex-row items-center bg-white p-8 rounded-lg shadow-lg">
         <div className="relative md:w-1/2">
           <img 
-            src="../public/DiscoverUniqueThings/img1.webp" 
+            src="./DiscoverUniqueThings/img1.webp" 
             alt="Discover unique things to do"
             className="rounded-lg"
           />

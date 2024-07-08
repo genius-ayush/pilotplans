@@ -6,7 +6,7 @@ function Hero() {
     <div className="relative h-screen flex items-center justify-center ">
       <video
         className="absolute top-0 left-0 w-full h-full object-cover"
-        src="../public/HeroVideo.mp4"
+        src="HeroVideo.mp4"
         autoPlay
         loop
         muted
