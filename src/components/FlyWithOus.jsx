@@ -44,22 +44,22 @@ function FlyWithOus() {
           <div className="mx-4">
             <Slider {...settings}>
               <div className="flex justify-center">
-                <img src="./src/assets/FlyWithOus/img1.jpeg" alt="img1" className="w-64 h-full rounded-md" />
+                <img src="../public/FlyWithOus/img1.jpeg" alt="img1" className="w-64 h-full rounded-md" />
               </div>
               <div className="flex justify-center">
-                <img src="./src/assets/FlyWithOus/img2.jpeg" alt="img2" className="w-64 h-full rounded-md" />
+                <img src="../public/FlyWithOus/img2.jpeg" alt="img2" className="w-64 h-full rounded-md" />
               </div>
               <div className="flex justify-center">
-                <img src="./src/assets/FlyWithOus/img3.jpg" alt="img3" className="w-64 h-full rounded-md" />
+                <img src="../public/FlyWithOus/img3.jpg" alt="img3" className="w-64 h-full rounded-md" />
               </div>
               <div className="flex justify-center">
-                <img src="./src/assets/FlyWithOus/img4.jpeg" alt="img4" className="w-64 h-full rounded-md" />
+                <img src="../public/FlyWithOus/img4.jpeg" alt="img4" className="w-64 h-full rounded-md" />
               </div>
               <div className="flex justify-center">
-                <img src="./src/assets/FlyWithOus/img5.jpg" alt="img5" className="w-64 h-full rounded-md" />
+                <img src="../public/FlyWithOus/img5.jpg" alt="img5" className="w-64 h-full rounded-md" />
               </div>
               <div className="flex justify-center">
-                <img src="./src/assets/FlyWithOus/img6.webp" alt="img6" className="w-64 h-full rounded-md" />
+                <img src="../public/FlyWithOus/img6.webp" alt="img6" className="w-64 h-full rounded-md" />
               </div>
             </Slider>
           </div>

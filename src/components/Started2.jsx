@@ -24,7 +24,7 @@ function Started2() {
         </div>
 
         <div>
-            <img src="./src/assets/Started/img1.png" alt=""/>
+            <img src="../public/Started/img1.png" alt=""/>
         </div>
 
         </div>

@@ -4,7 +4,7 @@ function Shop() {
     <div className="flex items-center justify-center min-h-5/6">
         <div className="flex flex-col md:flex-row items-center bg-white p-8 rounded-lg ">
             <div className="relative md:w-1/2">
-                <img src="./src/assets/Shop/img1.webp" alt="Shop" className="rounded-lg  lg:w-3/4 w-96"/>
+                <img src="../public/Shop/img1.webp" alt="Shop" className="rounded-lg  lg:w-3/4 w-96"/>
             </div>
 
             <div className="md:ml-8 mt-8 md:mt-0 text-center  md:text-left">

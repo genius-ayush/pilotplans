@@ -23,24 +23,24 @@ const StayOrganized = () => {
 
       <Slider {...settings} className="px-8">
         <div className="flex flex-col items-center">
-          <img src="./src/assets/StayOrganized/img1.webp" alt="Slide 1" className="rounded-lg mb-4" />
+          <img src="../public/StayOrganized/img1.webp" alt="Slide 1" className="rounded-lg mb-4" />
           <p className="text-center text-gray-600">Drag & drop to flexibly reorder your plans</p>
         </div>
         <div className="flex flex-col items-center">
-          <img src="./src/assets/StayOrganized/img2.webp" alt="Slide 2" className="rounded-lg mb-4" />
+          <img src="../public/StayOrganized/img2.webp" alt="Slide 2" className="rounded-lg mb-4" />
           <p className="text-center text-gray-600">Decide & vote on different activities</p>
         </div>
         <div className="flex flex-col items-center">
-          <img src="./src/assets/StayOrganized/img2.webp" alt="Slide 3" className="rounded-lg mb-4" />
+          <img src="../public/StayOrganized/img2.webp" alt="Slide 3" className="rounded-lg mb-4" />
           <p className="text-center text-gray-600">Add expenses, files, links, and dates to anything</p>
         </div>
 
         <div className="flex flex-col items-center">
-          <img src="./src/assets/StayOrganized/img5.webp" alt="Slide 3" className="rounded-lg mb-4" />
+          <img src="../public/StayOrganized/img5.webp" alt="Slide 3" className="rounded-lg mb-4" />
           <p className="text-center text-gray-600">Add expenses, files, links, and dates to anything</p>
         </div>
         <div className="flex flex-col items-center">
-          <img src="./src/assets/StayOrganized/img6.webp" alt="Slide 3" className="rounded-lg mb-4" />
+          <img src="../public/StayOrganized/img6.webp" alt="Slide 3" className="rounded-lg mb-4" />
           <p className="text-center text-gray-600">Add expenses, files, links, and dates to anything</p>
         </div>
       </Slider>
