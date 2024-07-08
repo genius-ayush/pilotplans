@@ -18,7 +18,7 @@ function Header() {
       </div>
 
       <div href="#" id="brand" className="flex md:absolute left-20">
-        <img src="../public/PilotLogoOrange.svg" alt="" className="w-24" />
+        <img src="PilotLogoOrange.svg" alt="" className="w-24" />
       </div>
 
       <div className="gap-5 flex absolute left-60">

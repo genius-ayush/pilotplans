@@ -45,31 +45,31 @@ function FeaturedIn() {
       <div className="mx-4">
         <Slider {...settings}>
           <div className="flex justify-center">
-            <img src="../public/Featured/img1.png" alt="img1" className="w-52 h-8" />
+            <img src="./Featured/img1.png" alt="img1" className="w-52 h-8" />
           </div>
           <div className="flex justify-center">
-            <img src="../public/Featured/img2.svg" alt="img2" className="w-52 h-8" />
+            <img src="./Featured/img2.svg" alt="img2" className="w-52 h-8" />
           </div>
           <div className="flex justify-center">
-            <img src="../public/Featured/img3.png" alt="img3" className="w-52 h-8" />
+            <img src="./Featured/img3.png" alt="img3" className="w-52 h-8" />
           </div>
           <div className="flex justify-center">
-            <img src="../public/Featured/img4.png" alt="img4" className="w-52 h-8" />
+            <img src="./Featured/img4.png" alt="img4" className="w-52 h-8" />
           </div>
           <div className="flex justify-center">
-            <img src="../public/Featured/img5.png" alt="img5" className="w-52 h-8" />
+            <img src="./Featured/img5.png" alt="img5" className="w-52 h-8" />
           </div>
           <div className="flex justify-center">
-            <img src="../public/Featured/img6.png" alt="img6" className="w-52 h-8" />
+            <img src="./Featured/img6.png" alt="img6" className="w-52 h-8" />
           </div>
           <div className="flex justify-center">
-            <img src="../public/Featured/img7.png" alt="img7" className="w-52 h-8" />
+            <img src="./Featured/img7.png" alt="img7" className="w-52 h-8" />
           </div>
           <div className="flex justify-center">
-            <img src="../public/Featured/img8.png" alt="img8" className="w-52 h-8" />
+            <img src="./Featured/img8.png" alt="img8" className="w-52 h-8" />
           </div>
           <div className="flex justify-center">
-            <img src="../public/Featured/img9.png" alt="img9" className="w-52 h-8" />
+            <img src="./Featured/img9.png" alt="img9" className="w-52 h-8" />
           </div>
         </Slider>
       </div>
